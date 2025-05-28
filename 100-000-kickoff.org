@@ -129,6 +129,8 @@
 - Claude 4.0 Sonnet
 - Commands (init, model, memory, mcp, ...)
 
+* Demo 3
+
 #+REVEAL_HTML: <iframe width="640" height="480" src="https://www.youtube.com/embed/z11VtlkZuPY?si=GrxUQ7wymv3jOyj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Demo 4
@@ -137,6 +139,10 @@
 - nmesos (Singularity, Mesos, Sidecar, ...)
 - Analysing the architecture of the repo/code
 - Visualize it with (mermaid) diagrams
+
+* Demo 4
+
+#+REVEAL_HTML: <iframe width="640" height="480" src="https://www.youtube.com/embed/DZH0aYXHnlA?si=LJloj_SkraOFcUAN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
 * MCP-Servers
 
