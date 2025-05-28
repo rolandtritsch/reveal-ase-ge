@@ -1,2 +1,3 @@
-# reveal-ase-ge
-The presentation for the ASE/GE workshop
+# [ASE][] Meetup Slides
+
+[ASE]: https://www.meetup.com/the-augmented-software-engineer
