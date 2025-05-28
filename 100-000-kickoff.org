@@ -96,7 +96,7 @@
 * Tips & Tricks
 
 - Context is king. Prompts are the queen
-- Use rules/system-prompts (claude.md, claude.local.md, ~/.claude) 
+- Use rules/system-prompts (claude.md, claude.local.md, ~/.claude)
 - Build (context), Plan, Do, Evaluate (!), Iterate, ...
 - Use MCP-Servers to add tools, resources, prompts, ...
 
@@ -105,7 +105,7 @@
 - Generate documentation
 - Generate implementation **AND** the tests
 - (Non-selective) YOLO (trust, but verify; HIL)
-- Only using AI for coding
+- Using AI for coding only (20% of everything vs. 80% of coding)
 
 * Demo 2
 
@@ -114,7 +114,7 @@
 - "Assisted driving" experience
 - Claude 3.7 Sonnet
 - Chat vs. Cascade vs. Instructions vs. Completion
-- .windsurfrules
+- Context management (@file, @line, @current_problems, ...)
 
 * Demo 2
 
@@ -122,12 +122,14 @@
 
 * Demo 3
 
-- claude-code - Solve a problem (P58)
+- claude-code - Solve a problem (P59)
 - "Self-driving car" experience
   - Outcomes vs. Instructions
-  - "Get me there" (needs an evaluation criteria)
+- "Get me there"/Vibe-Coding (needs an evaluation criteria)
 - Claude 4.0 Sonnet
-- claude.md
+- Commands (init, model, memory, mcp, ...)
+
+#+REVEAL_HTML: <iframe width="640" height="480" src="https://www.youtube.com/embed/z11VtlkZuPY?si=GrxUQ7wymv3jOyj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Demo 4
 
