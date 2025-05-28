@@ -95,18 +95,30 @@
 
 * Tips & Tricks
 
+- Context is king. Prompts are the queen
 - Use rules/system-prompts (claude.md, claude.local.md, ~/.claude) 
 - Build (context), Plan, Do, Evaluate (!), Iterate, ...
 - Use MCP-Servers to add tools, resources, prompts, ...
 
+* Anti-Patterns
+
+- Generate documentation
+- Generate implementation **AND** the tests
+- (Non-selective) YOLO (trust, but verify; HIL)
+- Only using AI for coding
+
 * Demo 2
 
 - 99-scala-problems
-- Windsurf - Solve a problem (P58)
+- Windsurf - Solve a problem (P59)
 - "Assisted driving" experience
 - Claude 3.7 Sonnet
 - Chat vs. Cascade vs. Instructions vs. Completion
 - .windsurfrules
+
+* Demo 2
+
+#+REVEAL_HTML: <iframe width="640" height="480" src="https://www.youtube.com/embed/t_YX_WcMhLc?si=4zM6sT_XA_OyvfdG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Demo 3
 
