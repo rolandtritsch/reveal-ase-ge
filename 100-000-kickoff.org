@@ -114,7 +114,7 @@
 - "Assisted driving" experience
 - Claude 3.7 Sonnet
 - Chat vs. Cascade vs. Instructions vs. Completion
-- Context management (@file, @line, @current_problems, ...)
+- Context management (@file, @line, @current-problems, ...)
 
 * Demo 2
 
